@@ -1,8 +1,8 @@
 # 🪝 use-ref-map
 
-[![npm](https://img.shields.io/npm/v/react-contentful?style=flat-square)](https://www.pkgstats.com/pkg:react-contentful)
-[![NPM](https://img.shields.io/npm/l/react-contentful?style=flat-square)](LICENSE)
-[![npm](https://img.shields.io/npm/dt/react-contentful?style=flat-square)](https://www.pkgstats.com/pkg:react-contentful)
+[![npm](https://img.shields.io/npm/v/use-ref-map?style=flat-square)](https://www.pkgstats.com/pkg:use-ref-map)
+[![NPM](https://img.shields.io/npm/l/use-ref-map?style=flat-square)](LICENSE)
+[![npm](https://img.shields.io/npm/dt/use-ref-map?style=flat-square)](https://www.pkgstats.com/pkg:use-ref-map)
 
 Dynamically generate and reference React reference instances with this handy hook.
 
